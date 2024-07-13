@@ -4,7 +4,7 @@ import Header from "./Header";
 const Body = () => {
   return (
     
-    <div className="lg:flex lg:justify-between ">
+    <div className="lg:flex mt-24 lg:mt-0 lg:justify-between ">
       <div className="flex flex-col justify-center lg:px-5  items-center text-center pt-10 py-5">
         <h1 className="text-green-500 lg:text-6xl  text-6xl md:text-8xl md:mt-1 md:font-sans font-sans font-extrabold">
           ATTEND LIVE
