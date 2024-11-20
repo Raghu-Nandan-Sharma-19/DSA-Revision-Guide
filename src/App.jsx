@@ -10,7 +10,6 @@ import JobIllustration from './Components/JobIllustration'
 import Footer from './Components/Footer'
 function App() {
   return (
-    <>
     <div>
       <Header />
       <Body />
@@ -22,7 +21,6 @@ function App() {
       <JobIllustration />
       <Footer />
     </div>
-    </>
   )
 }
 
